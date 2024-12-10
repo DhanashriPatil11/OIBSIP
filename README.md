@@ -74,7 +74,7 @@ This console-based Java application simulates an ATM system, allowing users to p
 6. **Quit**:  
    - Provides an option to exit the application gracefully.
   
-  --
+  ---
 
   ### 📝 Task 4: Online Examination  
 
