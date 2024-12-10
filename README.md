@@ -28,6 +28,7 @@ An online system designed for hassle-free ticket reservations and cancellations.
 - 📝 **Reservation System**: Auto-populates train names based on train numbers and confirms reservations with a click.  
 - ❌ **Cancellation System**: Retrieves and cancels tickets
 
+---
 ### 🎯 Task 2: Number Guessing Game  
 
 **Description**:  
